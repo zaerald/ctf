@@ -5,7 +5,7 @@ Working on picoGym Practice Challenges for now.
 https://play.picoctf.org/practice
 
 - picoGym Practice Challenges
-  - [x] General Skills (34/34)
+  - [x] General Skills (33/34)
   - [ ] Web Exploitation (45)
   - [ ] Cryptography (50)
   - [ ] Reverse Engineering (55)
