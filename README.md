@@ -1,4 +1,4 @@
-# CTF Journey
+# CTF and Wargame Journey
 
 This contains my journey around CTFs and Wargames.
 
