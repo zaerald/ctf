@@ -6,7 +6,7 @@ https://play.picoctf.org/practice
 
 - picoGym Practice Challenges
   - [x] General Skills (33/34) - [journey](./general-skills)
-  - [ ] Web Exploitation (2/45) - [journey](./web-exploitation)
+  - [ ] Web Exploitation (3/45) - [journey](./web-exploitation)
   - [ ] Cryptography (50)
   - [ ] Reverse Engineering (55)
   - [ ] Forensics (50)
